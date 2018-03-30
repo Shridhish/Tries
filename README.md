@@ -1,2 +1,2 @@
 # Tries
-Tries implementation in JAVA
+Java implementation of Trie data structure!
